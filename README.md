@@ -16,18 +16,6 @@ This project implements a machine learning model that can automatically detect a
 8. Waning Crescent
 
 
-
-![New Moon](images/epochs.png)
-*Training Accuracy*
-
-![Waxing Crescent](images/model_summary.png)
-*Model Summary*
-
-![First Quarter](images/loss.png)
-*Loss*
-
-
-
 ## Features
 
 - Image preprocessing and normalization
