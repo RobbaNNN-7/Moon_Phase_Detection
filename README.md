@@ -15,6 +15,19 @@ This project implements a machine learning model that can automatically detect a
 7. Last Quarter
 8. Waning Crescent
 
+
+
+![New Moon](images/epochs.png)
+*Training Accuracy*
+
+![Waxing Crescent](images/model_summary.png)
+*Model Summary*
+
+![First Quarter](images/loss.png)
+*Loss*
+
+
+
 ## Features
 
 - Image preprocessing and normalization
@@ -41,6 +54,15 @@ The model uses a CNN architecture with the following layers:
 - Uses categorical cross-entropy loss
 - Implements early stopping to prevent overfitting
 - Includes validation split for model evaluation
+
+![New Moon](images/epochs.png)
+*Training Accuracy*
+
+![Waxing Crescent](images/model_summary.png)
+*Model Summary*
+
+![First Quarter](images/loss.png)
+*Loss*
 
 ## Requirements
 
