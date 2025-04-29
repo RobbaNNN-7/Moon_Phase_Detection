@@ -1,4 +1,4 @@
-# Moon Phase Detection ( ACCURACY ISSUES DUE TO DATA , WILL BE FIXED )
+# Moon Phase Detection ( ACCURACY ISSUES DUE TO MISMATCH SIZES , WILL BE FIXED )
 
 A deep learning model that classifies moon phases from images using Convolutional Neural Networks (CNN).
 
